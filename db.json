@@ -1,184 +1,184 @@
 {
     "users": [
         {
-            "id": "fa5b2469-e29e-443a-bfa2-0265c987f84d",
+            "id": "1",
             "first_name": "Karlik",
             "last_name": "Laurand",
             "username": "klaurand0",
             "isAdmin": true,
             "createdAt": "01/22/2020",
-            "team": "Lima November Bravo Papa Romeo Quebec Foxtrot Echo Uniform Juliett Yankee India Sierra Delta Oscar X-ray Kilo Tango"
+            "team": "Marketing"
         },
         {
-            "id": "fd7f33a9-6c77-41ed-a4a1-7b8d68535031",
+            "id": "2",
             "first_name": "Gilberte",
             "last_name": "Gladtbach",
             "username": "ggladtbach1",
             "isAdmin": true,
             "createdAt": "06/14/2020",
-            "team": "Foxtrot Bravo Hotel Sierra November Charlie Whiskey Kilo Papa India Tango Uniform Golf Zulu X-ray"
+            "team": "Content"
         },
         {
-            "id": "4eeef917-e697-46b0-8771-c56102f44059",
+            "id": "3",
             "first_name": "Zonda",
             "last_name": "Kentish",
             "username": "zkentish2",
             "isAdmin": false,
             "createdAt": "06/16/2020",
-            "team": "Delta Hotel Alfa Kilo Lima Whiskey Yankee Oscar Juliett India Zulu"
+            "team": "Influencer"
         },
         {
-            "id": "8d5d2f8a-6e98-4628-bc2d-573806e06019",
+            "id": "4",
             "first_name": "Riane",
             "last_name": "De Ferrari",
             "username": "rdeferrari3",
-            "isAdmin": true,
+            "isAdmin": false,
             "createdAt": "08/24/2019",
-            "team": "Mike Charlie Oscar Victor Delta India Echo Sierra Foxtrot Yankee Kilo Juliett Lima Uniform Romeo Papa Whiskey Golf"
+            "team": "Content"
         },
         {
-            "id": "603fb784-25ad-455f-8d74-8ce1e4e3d8df",
+            "id": "5",
             "first_name": "Grantham",
             "last_name": "Pursey",
             "username": "gpursey4",
             "isAdmin": false,
             "createdAt": "11/15/2019",
-            "team": "Echo Sierra Whiskey Tango Yankee Quebec Alfa Uniform Zulu Golf November Romeo Victor Papa Juliett Mike X-ray Bravo"
+            "team": "SEO"
         },
         {
-            "id": "e89cedc5-46df-4427-a76e-cf53458ed1e5",
+            "id": "6",
             "first_name": "Padgett",
             "last_name": "Mayer",
             "username": "pmayer5",
             "isAdmin": false,
             "createdAt": "03/30/2020",
-            "team": "Juliett Oscar Whiskey Foxtrot Hotel Echo Golf Uniform Mike Romeo Alfa Quebec Tango Papa Victor Charlie Sierra X-ray Zulu"
+            "team": "Influencer"
         },
         {
-            "id": "96d46911-53d9-4d1d-938a-ef61bacafbfc",
+            "id": "7",
             "first_name": "Cindelyn",
             "last_name": "Happert",
             "username": "chappert6",
             "isAdmin": false,
             "createdAt": "10/17/2019",
-            "team": "Juliett Alfa Charlie Whiskey India Yankee Oscar Victor Hotel Lima Romeo Uniform X-ray Delta"
+            "team": "SEO"
         },
         {
-            "id": "34d453b7-4525-4db6-8c9b-84b0c01ef314",
+            "id": "8",
             "first_name": "Dare",
             "last_name": "Hansmann",
             "username": "dhansmann7",
             "isAdmin": true,
             "createdAt": "12/31/2019",
-            "team": "Uniform November India X-ray Foxtrot Quebec Sierra Bravo Juliett Alfa Romeo Victor Kilo Lima Oscar Whiskey Charlie"
+            "team": "Production"
         },
         {
-            "id": "dbd50478-9e18-41fb-9d34-1239676304d4",
+            "id": "9",
             "first_name": "Hamid",
             "last_name": "Prickett",
             "username": "hprickett8",
             "isAdmin": false,
             "createdAt": "07/05/2019",
-            "team": "Foxtrot Papa Quebec Delta Tango November Charlie Zulu Lima Hotel X-ray Yankee Juliett Mike Victor Sierra"
+            "team": "Content"
         },
         {
-            "id": "fb20d577-8be1-4a5c-85f2-d7c2ee377cac",
+            "id": "10",
             "first_name": "Herta",
             "last_name": "Buey",
             "username": "hbuey9",
             "isAdmin": false,
             "createdAt": "09/28/2019",
-            "team": "November Alfa India Oscar Echo Juliett Hotel Tango Golf Romeo Zulu"
+            "team": "Influencer"
         },
         {
-            "id": "41b64787-f45c-400a-86dd-286612889e47",
+            "id": "11",
             "first_name": "Eldridge",
             "last_name": "Pennazzi",
             "username": "epennazzia",
-            "isAdmin": true,
+            "isAdmin": false,
             "createdAt": "11/05/2019",
-            "team": "Quebec India Uniform Zulu Mike Tango November Alfa Echo Foxtrot Kilo Romeo Papa Whiskey Charlie Juliett Delta Oscar Lima"
+            "team": "Content"
         },
         {
-            "id": "99cf9510-f9ff-4045-8ed5-9d2eaf699968",
+            "id": "12",
             "first_name": "Clerissa",
             "last_name": "Geldart",
             "username": "cgeldartb",
             "isAdmin": false,
             "createdAt": "01/05/2020",
-            "team": "Yankee Golf Foxtrot Kilo Victor Hotel Sierra Quebec X-ray Delta Lima Echo Tango Bravo"
+            "team": "Marketing"
         },
         {
-            "id": "b7ff4c8d-1975-41da-af67-3660f0b3dae9",
+            "id": "13",
             "first_name": "Lemmy",
             "last_name": "Webbe",
             "username": "lwebbec",
-            "isAdmin": true,
+            "isAdmin": false,
             "createdAt": "01/21/2020",
-            "team": "Delta Quebec Hotel Mike Tango Alfa November Whiskey Lima Romeo Victor India Foxtrot Papa Sierra Yankee Golf Oscar"
+            "team": "Influencer"
         },
         {
-            "id": "2662a8c1-bd9c-4a5d-a0d5-6b4ef4ce8b43",
+            "id": "14",
             "first_name": "Horatius",
             "last_name": "Gately",
             "username": "hgatelyd",
             "isAdmin": false,
             "createdAt": "09/18/2019",
-            "team": "Charlie X-ray Juliett Echo Lima Foxtrot Yankee Sierra Kilo Golf Romeo Delta India Quebec Victor Hotel Papa Zulu Tango"
+            "team": "Content"
         },
         {
-            "id": "518adf7f-8983-46db-9759-9b86d9194816",
+            "id": "15",
             "first_name": "Nels",
             "last_name": "Maggiore",
             "username": "nmaggioree",
-            "isAdmin": true,
+            "isAdmin": false,
             "createdAt": "02/14/2020",
-            "team": "Kilo Victor Oscar Charlie Uniform X-ray Golf Papa Tango Bravo India Juliett Mike Yankee Lima November Alfa Whiskey Sierra"
+            "team": "SEO"
         },
         {
-            "id": "ad7a7490-9504-4b11-8a0b-e391d5f24dd9",
+            "id": "16",
             "first_name": "Jephthah",
             "last_name": "Darnbrook",
             "username": "jdarnbrookf",
-            "isAdmin": true,
+            "isAdmin": false,
             "createdAt": "08/06/2019",
-            "team": "Echo Juliett Hotel November Kilo Delta Mike Oscar X-ray Sierra Lima Victor Quebec Foxtrot Tango"
+            "team": "SEO"
         },
         {
-            "id": "df5b311b-0d30-4b0d-9449-977332819b13",
+            "id": "17",
             "first_name": "Maddy",
             "last_name": "Sharpe",
             "username": "msharpeg",
             "isAdmin": false,
             "createdAt": "08/09/2019",
-            "team": "Tango Yankee Whiskey Bravo November Zulu Hotel Sierra Romeo Kilo Papa Uniform Lima Alfa"
+            "team": "Marketing"
         },
         {
-            "id": "ef8eb08e-89da-4c14-9f48-6d594e46cbc3",
+            "id": "18",
             "first_name": "Ethelyn",
             "last_name": "Kobisch",
             "username": "ekobischh",
             "isAdmin": false,
             "createdAt": "08/16/2019",
-            "team": "Quebec Yankee November Tango Sierra Foxtrot Romeo Mike Alfa Zulu Lima X-ray Kilo Juliett Bravo India Whiskey"
+            "team": "Influencer"
         },
         {
-            "id": "bcaa7550-f745-4c98-9c3d-ca1b9e57cf37",
+            "id": "19",
             "first_name": "Alic",
             "last_name": "Mouland",
             "username": "amoulandi",
-            "isAdmin": true,
+            "isAdmin": false,
             "createdAt": "10/02/2019",
-            "team": "Romeo Lima Charlie Delta Mike Victor Bravo Oscar Yankee November Uniform Quebec"
+            "team": "Content"
         },
         {
-            "id": "7010056b-f57e-46c9-bbfe-67616c1ac74f",
+            "id": "20",
             "first_name": "Karlie",
             "last_name": "Savoury",
             "username": "ksavouryj",
             "isAdmin": false,
             "createdAt": "09/06/2019",
-            "team": "Zulu Lima Echo Tango X-ray Papa Alfa Kilo India Foxtrot Bravo Yankee Oscar Charlie"
+            "team": "Content"
         }
        
     ]
